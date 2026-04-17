@@ -1,17 +1,36 @@
-# flutter_application_3
+# 📱 Task Manager App (Flutter)
 
-A new Flutter project.
+A simple and clean Flutter application to manage daily Tasks, Schedule, and Notes.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+* ✅ Add tasks with date & time picker
+* ✅ Mark tasks as completed
+* ✅ Delete tasks
+* 📅 Schedule view:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+  * Today tasks
+  * Upcoming tasks
+* 📝 Notes section (Grid layout)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Tech Stack
+
+* Flutter
+* Dart
+
+---
+
+## 🚀 How to Run
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+
